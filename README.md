@@ -1,5 +1,5 @@
 # mease-test-data
-Test data files for mease-lab-to-nwb.
+Test data files for [mease-lab-to-nwb](https://github.com/catalystneuro/mease-lab-to-nwb)
 
 ## Contents
 
@@ -11,9 +11,11 @@ Test data files for mease-lab-to-nwb.
 
 ## To download
 
-Download all of the above test files as a [compressed tgz file]().
+Download all of the above test files as a [compressed tgz file](https://github.com/lkeegan/mease-test-data/releases/download/rolling/data.tgz).
 
-## To add a test file
+## To update
 
-- edit the release & upload a new file
-- add it to the list of files in this readme
+- [edit the "rolling" release](https://github.com/lkeegan/mease-test-data/releases/edit/rolling)
+  - delete the existing data.tgz
+  - upload a new data.tgz
+- edit this README file to update the list of contents
