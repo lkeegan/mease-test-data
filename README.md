@@ -19,4 +19,4 @@ Download all of the above test files as a [compressed tgz file](https://github.c
 - [edit the "rolling" release](https://github.com/lkeegan/mease-test-data/releases/edit/rolling)
   - delete the existing data.tgz
   - upload a new data.tgz
-- edit this README file to update the list of contents
+- [edit this README file](https://github.com/ssciwr/mease-test-data/edit/main/README.md) to update the list of contents
