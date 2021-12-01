@@ -3,11 +3,12 @@ Test data files for [mease-lab-to-nwb](https://github.com/catalystneuro/mease-la
 
 ## Contents
 
-- Dual_RhdD_H3__RhdC_H5_LaserOnly.smrx
-- m365_1sec.smrx
-- RhdD_H5_Mech+Laser.smrx
-- RhdD_H5_MechOnly.smrx
-- TTLtest.smrx
+- Dual_RhdD_H3__RhdC_H5_LaserOnly.smrx (9.0M)
+- H5_Mech_1Hz_10Hz.smrx (723M)
+- m365_1sec.smrx (4.7M)
+- RhdD_H5_Mech+Laser.smrx (9.0M)
+- RhdD_H5_MechOnly.smrx (9.0M)
+- TTLtest.smrx (51M)
 
 ## To download
 
