@@ -10,7 +10,7 @@ Test data files for [mease-lab-to-nwb](https://github.com/catalystneuro/mease-la
 - RhdD_H5_MechOnly.smrx (9.0M)
 - TTLtest_17mW.smrx (51M)
 - test_m6pt2and3_analysis.mat (122M)
-- timestamp_test.npy (0.1M)
+- P3_S1HL_Freq_Cycle_4mW.nwb (290M)
 
 ## To download
 
